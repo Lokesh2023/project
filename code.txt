@@ -1,2 +1,2 @@
 hi this is my 1st project
-x=5
+x=10
